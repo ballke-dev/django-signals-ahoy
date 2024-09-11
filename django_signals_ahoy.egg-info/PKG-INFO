@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: django-signals-ahoy
-Version: 0.1_3
+Version: 0.1.3
 Summary: signals-ahoy
 Home-page: http://bitbucket.org/bkroeze/django-signals-ahoy/
 Author: Bruce Kroeze
